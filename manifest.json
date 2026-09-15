@@ -1,18 +1,13 @@
 {
-  "id": "/gilang-tree-portal/",
+  "id": "gilang-tree-portal",
   "name": "Gilang Tree \u2014 AURUM & MIDAS Portal",
   "short_name": "Gilang Tree",
-  "description": "AURUM & MIDAS Portal - Trading Guide & SRS Documentation",
+  "description": "AURUM & MIDAS Portal - Trading Guide",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "display_override": [
-    "window-controls-overlay",
-    "standalone"
-  ],
   "background_color": "#0e0a09",
   "theme_color": "#0e0a09",
-  "orientation": "any",
   "icons": [
     {
       "src": "./icon-192.png",
